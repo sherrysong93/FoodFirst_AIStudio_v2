@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FreshTrack - Food Shelf Life Manager",
+  "description": "A smart food inventory manager that helps you track shelf life, reduce waste, and get AI-powered ingredient recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
